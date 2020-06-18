@@ -1,0 +1,14 @@
+/** In this program we have declared the variables of various data types & then concatenated them. */
+
+fun main()
+{
+    val a: String = "Hello From the variable created by Prubhtej Singh"
+    val b: Int = 900
+    val c : Float = 10.99F
+    val d : Double = 10.999
+    val e :Boolean = true
+    
+    println(a+b+c+d+e)
+    
+    }
+    
