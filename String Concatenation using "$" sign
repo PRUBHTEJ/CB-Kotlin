@@ -1,0 +1,14 @@
+/** There are 2 possible ways to concatenate strings in kotlin
+* 1. Using the good old method of "+" sign in println i.e println(a+b+c+d+e) &
+* 2. Using "$" sign .
+*/
+
+fun main()
+{
+   var a : Int = 2000
+   
+   var b : String = "Hello World"
+   
+   println("$a $b") /** We have used the "$" sign before both the variables and if we dont use the "$" sign before any of the variables then it'll simply print the variables.*/
+   
+   println("$a PrubhtejSingh")/** In this case the variable a & PrubhtejSingh will get concatenated.*/
