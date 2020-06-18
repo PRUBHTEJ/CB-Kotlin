@@ -3,4 +3,8 @@ This Repo contains the basic programs that I have executed when I was learning K
 
 I have executed the following programs:-
 
-1. Hello World in Kotlin
+1. [Hello World in Kotlin](https://github.com/PRUBHTEJ/CB-Kotlin/blob/master/Hello%20World)
+
+2. [Initialising variables in Kotlin](https://github.com/PRUBHTEJ/CB-Kotlin/blob/master/Initialising%20variables%20in%20Kotlin)
+
+3. [Concatenation](https://github.com/PRUBHTEJ/CB-Kotlin/blob/master/Concatenation)
