@@ -1,0 +1,18 @@
+/** In this program, I have initilaised some variables in kotlin. Also after initialising them, I have printed them with the use of "println()" function.*/
+
+
+
+fun main()
+{
+    val a: String = "Hello From the variable created by Prubhtej Singh"
+    val b: Int = 900
+    val c : Float = 10.99F
+    val d : Double = 10.999
+    val e :Boolean = true
+    println(a)
+    println(b)
+    println(c)
+    println(d)
+    println(e)
+    }
+    
