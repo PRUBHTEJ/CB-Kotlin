@@ -1,0 +1,15 @@
+/** In this program, I have declared a variable in kotlin without assigning it a value, which is illegal in Kotlin if we use the normal method & is only possible 
+if we use the "lateint" prefix before var. It is not possible to just initialise a variable in kotlin without assigning a value, due to the feature of null safety. Also This 
+feature is only possible for "var" & not "val" since it can be declared and initialsed only once. */
+
+lateint var f: String = null
+
+fun main()
+{
+   f = "Prubhtej Singh"
+   
+   println(f)
+   
+   }
+   
+   
