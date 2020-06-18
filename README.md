@@ -10,3 +10,5 @@ I have executed the following programs:-
 3. [Concatenation](https://github.com/PRUBHTEJ/CB-Kotlin/blob/master/Concatenation)
 
 4. [Late-Initialisation](https://github.com/PRUBHTEJ/CB-Kotlin/blob/master/Late-Initialisation)
+
+5. [String Concatenation using "$" sign](https://github.com/PRUBHTEJ/CB-Kotlin/blob/master/String%20Concatenation%20using%20%22%24%22%20sign)
